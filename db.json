@@ -1,0 +1,118 @@
+{
+  "rooms": [
+    {
+      "id": 1,
+      "room_number": "1",
+      "room_type": "1",
+      "room_price": "1450000",
+      "room_Availibility": "1",
+      "electricity_tokens": "1"
+    }
+  ],
+  "rooms": [
+    {
+      "id": 1,
+      "room_number": "1",
+      "room_type": "Besar",
+      "room_price": "1450000",
+      "room_Availibility": "Available",
+      "electricity_tokens": "8459413573"
+    },
+    {
+      "id": 2,
+      "room_number": "2",
+      "room_type": "Kecil",
+      "room_price": "1350000",
+      "room_Availibility": "Available",
+      "electricity_tokens": "8459413573"
+    },
+    {
+      "id": 3,
+      "room_number": "3",
+      "room_type": "Kecil",
+      "room_price": "1350000",
+      "room_Availibility": "Available",
+      "electricity_tokens": "8459413573"
+    },
+    {
+      "id": 4,
+      "room_number": "4",
+      "room_type": "Kecil",
+      "room_price": "1350000",
+      "room_Availibility": "Available",
+      "electricity_tokens": "8459413573"
+    },
+    {
+      "id": 5,
+      "room_number": "5",
+      "room_type": "Besar",
+      "room_price": "1450000",
+      "room_Availibility": "Available",
+      "electricity_tokens": "8459413573"
+    },
+    {
+      "id": 6,
+      "room_number": "6",
+      "room_type": "Besar",
+      "room_price": "1450000",
+      "room_Availibility": "Available",
+      "electricity_tokens": "8459413573"
+    },
+    {
+      "id": 7,
+      "room_number": "7",
+      "room_type": "Kecil",
+      "room_price": "1350000",
+      "room_Availibility": "Available",
+      "electricity_tokens": "8459413573"
+    },
+    {
+      "id": 8,
+      "room_number": "8",
+      "room_type": "Besar",
+      "room_price": "1450000",
+      "room_Availibility": "Available",
+      "electricity_tokens": "8459413573"
+    },
+    {
+      "id": 9,
+      "room_number": "9",
+      "room_type": "Besar",
+      "room_price": "1450000",
+      "room_Availibility": "Available",
+      "electricity_tokens": "8459413573"
+    },
+    {
+      "id": 10,
+      "room_number": "10",
+      "room_type": "Besar",
+      "room_price": "1450000",
+      "room_Availibility": "Available",
+      "electricity_tokens": "8459413573"
+    },
+    {
+      "id": 11,
+      "room_number": "11",
+      "room_type": "Besar",
+      "room_price": "1450000",
+      "room_Availibility": "Available",
+      "electricity_tokens": "8459413573"
+    },
+    {
+      "id": 12,
+      "room_number": "12",
+      "room_type": "Kecil",
+      "room_price": "1350000",
+      "room_Availibility": "Available",
+      "electricity_tokens": "8459413573"
+    },
+    {
+      "id": 13,
+      "room_number": "13",
+      "room_type": "Kecil",
+      "room_price": "1350000",
+      "room_Availibility": "Available",
+      "electricity_tokens": "8459413573"
+    }
+  ]
+}
