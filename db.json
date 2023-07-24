@@ -1,4 +1,93 @@
 {
+  "buildings": {
+    "status": 200,
+    "message": "Success",
+    "metadata": {
+      "timestamp": "2023-05-28T10:00:00Z",
+      "total_results": 13,
+      "page": 1,
+      "total_pages": 1,
+      "page_size": 10
+    },
+    "data": [
+      {
+        "id": 1,
+        "buildingName": "Alpha Kost",
+        "buildingDesc": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Enim eligendi autem quidem, corporis, dicta eum nostrum ad error aliquam optio, debitis soluta illo! Doloremque suscipit fugit, alias earum accusamus nostrum et quae pariatur, eaque illo dignissimos totam magnam excepturi neque quia voluptatibus blanditiis inventore nobis iste sed aliquid exercitationem debitis! Rem a tempora sequi consequuntur maxime libero, similique qui, vitae distinctio quisquam, atque repellendus amet laborum iusto! Totam sequi accusantium recusandae modi voluptatibus, voluptatum commodi similique, odit laboriosam deserunt animi voluptas necessitatibus minima omnis voluptatem architecto molestiae perferendis at soluta quam voluptate doloremque nesciunt. Itaque iusto similique reprehenderit aliquam cumque dolores deserunt dignissimos doloribus, voluptate mollitia aspernatur! Qui ratione possimus facilis aperiam porro voluptatibus autem ullam eos mollitia architecto, vel cumque corrupti ducimus cupiditate accusamus quae fuga in corporis. Molestias sed id maiores quod voluptas quis repudiandae perferendis accusantium autem dolores officia, veritatis ea laborum sapiente mollitia est ab dolore!",
+        "buildingAddress": "123 Jl. Bojong Salaman No.39A",
+        "buildingLongitude": "-6.992557157337174",
+        "buildingLatitude": "110.40049654181445",
+        "buildingTotalRoom": 13,
+        "buildingAvailabilityStatus": "available",
+        "buildingAreaSize": "",
+        "buldingOccupantGenderType": "Mixed",
+        "buildingAreaSize": 200,
+        "buildingTotalFloor": 2,
+        "buildingFacilities": [
+          {
+            "id": 7,
+            "facilityName": "Kitchen",
+            "facilityIcon": "ic_kitchen_24.png",
+            "facilityDesc": "",
+            "facilityType": "Building"
+          },
+          {
+            "id": 8,
+            "facilityName": "Refrigerator",
+            "facilityIcon": "ic_regrigerator_24.png",
+            "facilityDesc": "",
+            "facilityType": "Building"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "buildingName": "Beta Kost",
+        "buildingDesc": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Enim eligendi autem quidem, corporis, dicta eum nostrum ad error aliquam optio, debitis soluta illo! Doloremque suscipit fugit, alias earum accusamus nostrum et quae pariatur, eaque illo dignissimos totam magnam excepturi neque quia voluptatibus blanditiis inventore nobis iste sed aliquid exercitationem debitis! Rem a tempora sequi consequuntur maxime libero, similique qui, vitae distinctio quisquam, atque repellendus amet laborum iusto! Totam sequi accusantium recusandae modi voluptatibus, voluptatum commodi similique, odit laboriosam deserunt animi voluptas necessitatibus minima omnis voluptatem architecto molestiae perferendis at soluta quam voluptate doloremque nesciunt. Itaque iusto similique reprehenderit aliquam cumque dolores deserunt dignissimos doloribus, voluptate mollitia aspernatur! Qui ratione possimus facilis aperiam porro voluptatibus autem ullam eos mollitia architecto, vel cumque corrupti ducimus cupiditate accusamus quae fuga in corporis. Molestias sed id maiores quod voluptas quis repudiandae perferendis accusantium autem dolores officia, veritatis ea laborum sapiente mollitia est ab dolore!",
+        "buildingAddress": "Jl. Bojong Salaman No.39A",
+        "buildingLongitude": "-6.992557157337174",
+        "buildingLatitude": "110.40049654181445",
+        "buildingTotalRoom": 13,
+        "buildingAvailabilityStatus": "available",
+        "buildingAreaSize": "",
+        "buldingOccupantGenderType": "Mixed",
+        "buildingAreaSize": 200,
+        "buildingTotalFloor": 2,
+        "buildingFacilities": [
+          {
+            "id": 9,
+            "facilityName": "Park",
+            "facilityIcon": "ic_park_24.png",
+            "facilityDesc": "",
+            "facilityType": "Building"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "buildingName": "Tetha Kost",
+        "buildingDesc": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Enim eligendi autem quidem, corporis, dicta eum nostrum ad error aliquam optio, debitis soluta illo! Doloremque suscipit fugit, alias earum accusamus nostrum et quae pariatur, eaque illo dignissimos totam magnam excepturi neque quia voluptatibus blanditiis inventore nobis iste sed aliquid exercitationem debitis! Rem a tempora sequi consequuntur maxime libero, similique qui, vitae distinctio quisquam, atque repellendus amet laborum iusto! Totam sequi accusantium recusandae modi voluptatibus, voluptatum commodi similique, odit laboriosam deserunt animi voluptas necessitatibus minima omnis voluptatem architecto molestiae perferendis at soluta quam voluptate doloremque nesciunt. Itaque iusto similique reprehenderit aliquam cumque dolores deserunt dignissimos doloribus, voluptate mollitia aspernatur! Qui ratione possimus facilis aperiam porro voluptatibus autem ullam eos mollitia architecto, vel cumque corrupti ducimus cupiditate accusamus quae fuga in corporis. Molestias sed id maiores quod voluptas quis repudiandae perferendis accusantium autem dolores officia, veritatis ea laborum sapiente mollitia est ab dolore!",
+        "buildingAddress": "Jl. Durian No ",
+        "buildingLongitude": "-6.992557157337174",
+        "buildingLatitude": "110.40049654181445",
+        "buildingTotalRoom": 13,
+        "buildingAvailabilityStatus": "available",
+        "buildingAreaSize": "",
+        "buldingOccupantGenderType": "Mixed",
+        "buildingAreaSize": 200,
+        "buildingTotalFloor": 2,
+        "buildingFacilities": [
+          {
+            "id": 9,
+            "facilityName": "Park",
+            "facilityIcon": "ic_park_24.png",
+            "facilityDesc": "",
+            "facilityType": "Building"
+          }
+        ]
+      }
+    ]
+  },
   "rooms": {
     "status": 200,
     "message": "Success",
@@ -16,7 +105,52 @@
         "roomType": "Besar",
         "roomPrice": "1450000",
         "roomAvailibility": "Available",
-        "electricityTokens": "8459413573"
+        "electricityTokens": "8459413573",
+        "roomFacilities": [
+          {
+            "id": 1,
+            "facilityName": "Air Conditioning",
+            "facilityIcon": "ic_ac_unit_24.png",
+            "facilityDesc": "",
+            "facilityType": "Room"
+          },
+          {
+            "id": 2,
+            "facilityName": "Single Bed",
+            "facilityIcon": "ic_bed_24.png",
+            "facilityDesc": "",
+            "facilityType": "Room"
+          },
+          {
+            "id": 3,
+            "facilityName": "Desk",
+            "facilityIcon": "ic_desk_24.png",
+            "facilityDesc": "",
+            "facilityType": "Room"
+          },
+          {
+            "id": 4,
+            "facilityName": "Bathroom",
+            "facilityIcon": "ic_shower_24.png",
+            "facilityDesc": "",
+            "facilityType": "Room"
+          },
+          {
+            "id": 5,
+            "facilityName": "Wardrobe",
+            "facilityIcon": "ic_wardrop_24.png",
+            "facilityDesc": "",
+            "facilityType": "Room"
+          },
+          {
+            "id": 6,
+            "facilityName": "Wi-Fi",
+            "facilityIcon": "ic_wifi_24.png",
+            "facilityDesc": "",
+            "facilityType": "Room"
+          }
+        ],
+        "buildingId": 1
       },
       {
         "id": 2,
@@ -24,7 +158,52 @@
         "roomType": "Kecil",
         "roomPrice": "1350000",
         "roomAvailibility": "Available",
-        "electricityTokens": "8459413573"
+        "electricityTokens": "8459413573",
+        "roomFacilities": [
+          {
+            "id": 1,
+            "facilityName": "Air Conditioning",
+            "facilityIcon": "ic_ac_unit_24.png",
+            "facilityDesc": "",
+            "facilityType": "Room"
+          },
+          {
+            "id": 2,
+            "facilityName": "Single Bed",
+            "facilityIcon": "ic_bed_24.png",
+            "facilityDesc": "",
+            "facilityType": "Room"
+          },
+          {
+            "id": 3,
+            "facilityName": "Desk",
+            "facilityIcon": "ic_desk_24.png",
+            "facilityDesc": "",
+            "facilityType": "Room"
+          },
+          {
+            "id": 4,
+            "facilityName": "Bathroom",
+            "facilityIcon": "ic_shower_24.png",
+            "facilityDesc": "",
+            "facilityType": "Room"
+          },
+          {
+            "id": 5,
+            "facilityName": "Wardrobe",
+            "facilityIcon": "ic_wardrop_24.png",
+            "facilityDesc": "",
+            "facilityType": "Room"
+          },
+          {
+            "id": 6,
+            "facilityName": "Wi-Fi",
+            "facilityIcon": "ic_wifi_24.png",
+            "facilityDesc": "",
+            "facilityType": "Room"
+          }
+        ],
+        "buildingId": 1
       },
       {
         "id": 3,
@@ -32,7 +211,52 @@
         "roomType": "Kecil",
         "roomPrice": "1350000",
         "roomAvailibility": "Available",
-        "electricityTokens": "8459413573"
+        "electricityTokens": "8459413573",
+        "roomFacilities": [
+          {
+            "id": 1,
+            "facilityName": "Air Conditioning",
+            "facilityIcon": "ic_ac_unit_24.png",
+            "facilityDesc": "",
+            "facilityType": "Room"
+          },
+          {
+            "id": 2,
+            "facilityName": "Single Bed",
+            "facilityIcon": "ic_bed_24.png",
+            "facilityDesc": "",
+            "facilityType": "Room"
+          },
+          {
+            "id": 3,
+            "facilityName": "Desk",
+            "facilityIcon": "ic_desk_24.png",
+            "facilityDesc": "",
+            "facilityType": "Room"
+          },
+          {
+            "id": 4,
+            "facilityName": "Bathroom",
+            "facilityIcon": "ic_shower_24.png",
+            "facilityDesc": "",
+            "facilityType": "Room"
+          },
+          {
+            "id": 5,
+            "facilityName": "Wardrobe",
+            "facilityIcon": "ic_wardrop_24.png",
+            "facilityDesc": "",
+            "facilityType": "Room"
+          },
+          {
+            "id": 6,
+            "facilityName": "Wi-Fi",
+            "facilityIcon": "ic_wifi_24.png",
+            "facilityDesc": "",
+            "facilityType": "Room"
+          }
+        ],
+        "buildingId": 1
       },
       {
         "id": 4,
@@ -40,7 +264,52 @@
         "roomType": "Kecil",
         "roomPrice": "1350000",
         "roomAvailibility": "Available",
-        "electricityTokens": "8459413573"
+        "electricityTokens": "8459413573",
+        "roomFacilities": [
+          {
+            "id": 1,
+            "facilityName": "Air Conditioning",
+            "facilityIcon": "ic_ac_unit_24.png",
+            "facilityDesc": "",
+            "facilityType": "Room"
+          },
+          {
+            "id": 2,
+            "facilityName": "Single Bed",
+            "facilityIcon": "ic_bed_24.png",
+            "facilityDesc": "",
+            "facilityType": "Room"
+          },
+          {
+            "id": 3,
+            "facilityName": "Desk",
+            "facilityIcon": "ic_desk_24.png",
+            "facilityDesc": "",
+            "facilityType": "Room"
+          },
+          {
+            "id": 4,
+            "facilityName": "Bathroom",
+            "facilityIcon": "ic_shower_24.png",
+            "facilityDesc": "",
+            "facilityType": "Room"
+          },
+          {
+            "id": 5,
+            "facilityName": "Wardrobe",
+            "facilityIcon": "ic_wardrop_24.png",
+            "facilityDesc": "",
+            "facilityType": "Room"
+          },
+          {
+            "id": 6,
+            "facilityName": "Wi-Fi",
+            "facilityIcon": "ic_wifi_24.png",
+            "facilityDesc": "",
+            "facilityType": "Room"
+          }
+        ],
+        "buildingId": 1
       },
       {
         "id": 5,
@@ -48,7 +317,52 @@
         "roomType": "Besar",
         "roomPrice": "1450000",
         "roomAvailibility": "Available",
-        "electricityTokens": "8459413573"
+        "electricityTokens": "8459413573",
+        "roomFacilities": [
+          {
+            "id": 1,
+            "facilityName": "Air Conditioning",
+            "facilityIcon": "ic_ac_unit_24.png",
+            "facilityDesc": "",
+            "facilityType": "Room"
+          },
+          {
+            "id": 2,
+            "facilityName": "Single Bed",
+            "facilityIcon": "ic_bed_24.png",
+            "facilityDesc": "",
+            "facilityType": "Room"
+          },
+          {
+            "id": 3,
+            "facilityName": "Desk",
+            "facilityIcon": "ic_desk_24.png",
+            "facilityDesc": "",
+            "facilityType": "Room"
+          },
+          {
+            "id": 4,
+            "facilityName": "Bathroom",
+            "facilityIcon": "ic_shower_24.png",
+            "facilityDesc": "",
+            "facilityType": "Room"
+          },
+          {
+            "id": 5,
+            "facilityName": "Wardrobe",
+            "facilityIcon": "ic_wardrop_24.png",
+            "facilityDesc": "",
+            "facilityType": "Room"
+          },
+          {
+            "id": 6,
+            "facilityName": "Wi-Fi",
+            "facilityIcon": "ic_wifi_24.png",
+            "facilityDesc": "",
+            "facilityType": "Room"
+          }
+        ],
+        "buildingId": 2
       },
       {
         "id": 6,
@@ -56,7 +370,52 @@
         "roomType": "Besar",
         "roomPrice": "1450000",
         "roomAvailibility": "Available",
-        "electricityTokens": "8459413573"
+        "electricityTokens": "8459413573",
+        "roomFacilities": [
+          {
+            "id": 1,
+            "facilityName": "Air Conditioning",
+            "facilityIcon": "ic_ac_unit_24.png",
+            "facilityDesc": "",
+            "facilityType": "Room"
+          },
+          {
+            "id": 2,
+            "facilityName": "Single Bed",
+            "facilityIcon": "ic_bed_24.png",
+            "facilityDesc": "",
+            "facilityType": "Room"
+          },
+          {
+            "id": 3,
+            "facilityName": "Desk",
+            "facilityIcon": "ic_desk_24.png",
+            "facilityDesc": "",
+            "facilityType": "Room"
+          },
+          {
+            "id": 4,
+            "facilityName": "Bathroom",
+            "facilityIcon": "ic_shower_24.png",
+            "facilityDesc": "",
+            "facilityType": "Room"
+          },
+          {
+            "id": 5,
+            "facilityName": "Wardrobe",
+            "facilityIcon": "ic_wardrop_24.png",
+            "facilityDesc": "",
+            "facilityType": "Room"
+          },
+          {
+            "id": 6,
+            "facilityName": "Wi-Fi",
+            "facilityIcon": "ic_wifi_24.png",
+            "facilityDesc": "",
+            "facilityType": "Room"
+          }
+        ],
+        "buildingId": 2
       },
       {
         "id": 7,
@@ -64,7 +423,52 @@
         "roomType": "Kecil",
         "roomPrice": "1350000",
         "roomAvailibility": "Available",
-        "electricityTokens": "8459413573"
+        "electricityTokens": "8459413573",
+        "roomFacilities": [
+          {
+            "id": 1,
+            "facilityName": "Air Conditioning",
+            "facilityIcon": "ic_ac_unit_24.png",
+            "facilityDesc": "",
+            "facilityType": "Room"
+          },
+          {
+            "id": 2,
+            "facilityName": "Single Bed",
+            "facilityIcon": "ic_bed_24.png",
+            "facilityDesc": "",
+            "facilityType": "Room"
+          },
+          {
+            "id": 3,
+            "facilityName": "Desk",
+            "facilityIcon": "ic_desk_24.png",
+            "facilityDesc": "",
+            "facilityType": "Room"
+          },
+          {
+            "id": 4,
+            "facilityName": "Bathroom",
+            "facilityIcon": "ic_shower_24.png",
+            "facilityDesc": "",
+            "facilityType": "Room"
+          },
+          {
+            "id": 5,
+            "facilityName": "Wardrobe",
+            "facilityIcon": "ic_wardrop_24.png",
+            "facilityDesc": "",
+            "facilityType": "Room"
+          },
+          {
+            "id": 6,
+            "facilityName": "Wi-Fi",
+            "facilityIcon": "ic_wifi_24.png",
+            "facilityDesc": "",
+            "facilityType": "Room"
+          }
+        ],
+        "buildingId": 2
       },
       {
         "id": 8,
@@ -72,7 +476,52 @@
         "roomType": "Besar",
         "roomPrice": "1450000",
         "roomAvailibility": "Available",
-        "electricityTokens": "8459413573"
+        "electricityTokens": "8459413573",
+        "roomFacilities": [
+          {
+            "id": 1,
+            "facilityName": "Air Conditioning",
+            "facilityIcon": "ic_ac_unit_24.png",
+            "facilityDesc": "",
+            "facilityType": "Room"
+          },
+          {
+            "id": 2,
+            "facilityName": "Single Bed",
+            "facilityIcon": "ic_bed_24.png",
+            "facilityDesc": "",
+            "facilityType": "Room"
+          },
+          {
+            "id": 3,
+            "facilityName": "Desk",
+            "facilityIcon": "ic_desk_24.png",
+            "facilityDesc": "",
+            "facilityType": "Room"
+          },
+          {
+            "id": 4,
+            "facilityName": "Bathroom",
+            "facilityIcon": "ic_shower_24.png",
+            "facilityDesc": "",
+            "facilityType": "Room"
+          },
+          {
+            "id": 5,
+            "facilityName": "Wardrobe",
+            "facilityIcon": "ic_wardrop_24.png",
+            "facilityDesc": "",
+            "facilityType": "Room"
+          },
+          {
+            "id": 6,
+            "facilityName": "Wi-Fi",
+            "facilityIcon": "ic_wifi_24.png",
+            "facilityDesc": "",
+            "facilityType": "Room"
+          }
+        ],
+        "buildingId": 2
       },
       {
         "id": 9,
@@ -80,7 +529,52 @@
         "roomType": "Besar",
         "roomPrice": "1450000",
         "roomAvailibility": "Available",
-        "electricityTokens": "8459413573"
+        "electricityTokens": "8459413573",
+        "roomFacilities": [
+          {
+            "id": 1,
+            "facilityName": "Air Conditioning",
+            "facilityIcon": "ic_ac_unit_24.png",
+            "facilityDesc": "",
+            "facilityType": "Room"
+          },
+          {
+            "id": 2,
+            "facilityName": "Single Bed",
+            "facilityIcon": "ic_bed_24.png",
+            "facilityDesc": "",
+            "facilityType": "Room"
+          },
+          {
+            "id": 3,
+            "facilityName": "Desk",
+            "facilityIcon": "ic_desk_24.png",
+            "facilityDesc": "",
+            "facilityType": "Room"
+          },
+          {
+            "id": 4,
+            "facilityName": "Bathroom",
+            "facilityIcon": "ic_shower_24.png",
+            "facilityDesc": "",
+            "facilityType": "Room"
+          },
+          {
+            "id": 5,
+            "facilityName": "Wardrobe",
+            "facilityIcon": "ic_wardrop_24.png",
+            "facilityDesc": "",
+            "facilityType": "Room"
+          },
+          {
+            "id": 6,
+            "facilityName": "Wi-Fi",
+            "facilityIcon": "ic_wifi_24.png",
+            "facilityDesc": "",
+            "facilityType": "Room"
+          }
+        ],
+        "buildingId": 3
       },
       {
         "id": 10,
@@ -88,7 +582,52 @@
         "roomType": "Besar",
         "roomPrice": "1450000",
         "roomAvailibility": "Available",
-        "electricityTokens": "8459413573"
+        "electricityTokens": "8459413573",
+        "roomFacilities": [
+          {
+            "id": 1,
+            "facilityName": "Air Conditioning",
+            "facilityIcon": "ic_ac_unit_24.png",
+            "facilityDesc": "",
+            "facilityType": "Room"
+          },
+          {
+            "id": 2,
+            "facilityName": "Single Bed",
+            "facilityIcon": "ic_bed_24.png",
+            "facilityDesc": "",
+            "facilityType": "Room"
+          },
+          {
+            "id": 3,
+            "facilityName": "Desk",
+            "facilityIcon": "ic_desk_24.png",
+            "facilityDesc": "",
+            "facilityType": "Room"
+          },
+          {
+            "id": 4,
+            "facilityName": "Bathroom",
+            "facilityIcon": "ic_shower_24.png",
+            "facilityDesc": "",
+            "facilityType": "Room"
+          },
+          {
+            "id": 5,
+            "facilityName": "Wardrobe",
+            "facilityIcon": "ic_wardrop_24.png",
+            "facilityDesc": "",
+            "facilityType": "Room"
+          },
+          {
+            "id": 6,
+            "facilityName": "Wi-Fi",
+            "facilityIcon": "ic_wifi_24.png",
+            "facilityDesc": "",
+            "facilityType": "Room"
+          }
+        ],
+        "buildingId": 3
       },
       {
         "id": 11,
@@ -96,7 +635,52 @@
         "roomType": "Besar",
         "roomPrice": "1450000",
         "roomAvailibility": "Available",
-        "electricityTokens": "8459413573"
+        "electricityTokens": "8459413573",
+        "roomFacilities": [
+          {
+            "id": 1,
+            "facilityName": "Air Conditioning",
+            "facilityIcon": "ic_ac_unit_24.png",
+            "facilityDesc": "",
+            "facilityType": "Room"
+          },
+          {
+            "id": 2,
+            "facilityName": "Single Bed",
+            "facilityIcon": "ic_bed_24.png",
+            "facilityDesc": "",
+            "facilityType": "Room"
+          },
+          {
+            "id": 3,
+            "facilityName": "Desk",
+            "facilityIcon": "ic_desk_24.png",
+            "facilityDesc": "",
+            "facilityType": "Room"
+          },
+          {
+            "id": 4,
+            "facilityName": "Bathroom",
+            "facilityIcon": "ic_shower_24.png",
+            "facilityDesc": "",
+            "facilityType": "Room"
+          },
+          {
+            "id": 5,
+            "facilityName": "Wardrobe",
+            "facilityIcon": "ic_wardrop_24.png",
+            "facilityDesc": "",
+            "facilityType": "Room"
+          },
+          {
+            "id": 6,
+            "facilityName": "Wi-Fi",
+            "facilityIcon": "ic_wifi_24.png",
+            "facilityDesc": "",
+            "facilityType": "Room"
+          }
+        ],
+        "buildingId": 3
       },
       {
         "id": 12,
@@ -104,7 +688,52 @@
         "roomType": "Kecil",
         "roomPrice": "1350000",
         "roomAvailibility": "Available",
-        "electricityTokens": "8459413573"
+        "electricityTokens": "8459413573",
+        "roomFacilities": [
+          {
+            "id": 1,
+            "facilityName": "Air Conditioning",
+            "facilityIcon": "ic_ac_unit_24.png",
+            "facilityDesc": "",
+            "facilityType": "Room"
+          },
+          {
+            "id": 2,
+            "facilityName": "Single Bed",
+            "facilityIcon": "ic_bed_24.png",
+            "facilityDesc": "",
+            "facilityType": "Room"
+          },
+          {
+            "id": 3,
+            "facilityName": "Desk",
+            "facilityIcon": "ic_desk_24.png",
+            "facilityDesc": "",
+            "facilityType": "Room"
+          },
+          {
+            "id": 4,
+            "facilityName": "Bathroom",
+            "facilityIcon": "ic_shower_24.png",
+            "facilityDesc": "",
+            "facilityType": "Room"
+          },
+          {
+            "id": 5,
+            "facilityName": "Wardrobe",
+            "facilityIcon": "ic_wardrop_24.png",
+            "facilityDesc": "",
+            "facilityType": "Room"
+          },
+          {
+            "id": 6,
+            "facilityName": "Wi-Fi",
+            "facilityIcon": "ic_wifi_24.png",
+            "facilityDesc": "",
+            "facilityType": "Room"
+          }
+        ],
+        "buildingId": 3
       },
       {
         "id": 13,
@@ -112,7 +741,52 @@
         "roomType": "Kecil",
         "roomPrice": "1350000",
         "roomAvailibility": "Available",
-        "electricityTokens": "8459413573"
+        "electricityTokens": "8459413573",
+        "roomFacilities": [
+          {
+            "id": 1,
+            "facilityName": "Air Conditioning",
+            "facilityIcon": "ic_ac_unit_24.png",
+            "facilityDesc": "",
+            "facilityType": "Room"
+          },
+          {
+            "id": 2,
+            "facilityName": "Single Bed",
+            "facilityIcon": "ic_bed_24.png",
+            "facilityDesc": "",
+            "facilityType": "Room"
+          },
+          {
+            "id": 3,
+            "facilityName": "Desk",
+            "facilityIcon": "ic_desk_24.png",
+            "facilityDesc": "",
+            "facilityType": "Room"
+          },
+          {
+            "id": 4,
+            "facilityName": "Bathroom",
+            "facilityIcon": "ic_shower_24.png",
+            "facilityDesc": "",
+            "facilityType": "Room"
+          },
+          {
+            "id": 5,
+            "facilityName": "Wardrobe",
+            "facilityIcon": "ic_wardrop_24.png",
+            "facilityDesc": "",
+            "facilityType": "Room"
+          },
+          {
+            "id": 6,
+            "facilityName": "Wi-Fi",
+            "facilityIcon": "ic_wifi_24.png",
+            "facilityDesc": "",
+            "facilityType": "Room"
+          }
+        ],
+        "buildingId": 3
       }
     ]
   },
@@ -135,6 +809,100 @@
         "occupantsPhone": "087738355778",
         "occupantsCheckIn": "31 May 2023",
         "occupantsCheckOut": ""
+      },
+      {
+        "id": 2,
+        "occupantsNik": "3320040601950002",
+        "occupantsName": "Fery Wijaya",
+        "occupantsAddr": "jl slamet riyadi no 15",
+        "occupantsPhone": "087738355778",
+        "occupantsCheckIn": "31 May 2023",
+        "occupantsCheckOut": ""
+      },
+      {
+        "id": 3,
+        "occupantsNik": "3320040601950002",
+        "occupantsName": "Fery Wijaya",
+        "occupantsAddr": "jl slamet riyadi no 15",
+        "occupantsPhone": "087738355778",
+        "occupantsCheckIn": "31 May 2023",
+        "occupantsCheckOut": ""
+      },
+      {
+        "id": 4,
+        "occupantsNik": "3320040601950002",
+        "occupantsName": "Fery Wijaya",
+        "occupantsAddr": "jl slamet riyadi no 15",
+        "occupantsPhone": "087738355778",
+        "occupantsCheckIn": "31 May 2023",
+        "occupantsCheckOut": ""
+      },
+      {
+        "id": 5,
+        "occupantsNik": "3320040601950002",
+        "occupantsName": "Fery Wijaya",
+        "occupantsAddr": "jl slamet riyadi no 15",
+        "occupantsPhone": "087738355778",
+        "occupantsCheckIn": "31 May 2023",
+        "occupantsCheckOut": ""
+      },
+      {
+        "id": 6,
+        "occupantsNik": "3320040601950002",
+        "occupantsName": "Fery Wijaya",
+        "occupantsAddr": "jl slamet riyadi no 15",
+        "occupantsPhone": "087738355778",
+        "occupantsCheckIn": "31 May 2023",
+        "occupantsCheckOut": ""
+      }
+    ]
+  },
+  "room_facilities": {
+    "status": 200,
+    "message": "Success",
+    "metadata": {
+      "timestamp": "2023-05-28T10:00:00Z",
+      "total_results": 13,
+      "page": 1,
+      "total_pages": 1,
+      "page_size": 10
+    },
+    "data": [
+      {
+        "id": 1,
+        "facilityName": "Air Conditioning",
+        "facilityIcon": "ic_ac_unit_24.png",
+        "facilityDesc": ""
+      },
+      {
+        "id": 2,
+        "facilityName": "Single Bed",
+        "facilityIcon": "ic_bed_24.png",
+        "facilityDesc": ""
+      },
+      {
+        "id": 3,
+        "facilityName": "Desk",
+        "facilityIcon": "ic_desk_24.png",
+        "facilityDesc": ""
+      },
+      {
+        "id": 4,
+        "facilityName": "Bathroom",
+        "facilityIcon": "ic_shower_24.png",
+        "facilityDesc": ""
+      },
+      {
+        "id": 5,
+        "facilityName": "Wardrobe",
+        "facilityIcon": "ic_wardrop_24.png",
+        "facilityDesc": ""
+      },
+      {
+        "id": 6,
+        "facilityName": "Wi-Fi",
+        "facilityIcon": "ic_wifi_24.png",
+        "facilityDesc": ""
       }
     ]
   }
